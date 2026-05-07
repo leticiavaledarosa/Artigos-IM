@@ -1,53 +1,53 @@
 {
-  "versao": "",
-  "mes": "",
-  "edicao": "",
+  "versao": "Versão 01",
+  "mes": "Maio 2026",
+  "edicao": "Diagnósticos",
   "artigos": {
     "1": {
-      "t1": "",
-      "t2": "",
-      "t3": "",
-      "titulo": "",
-      "resumo": "",
-      "artigo": "",
-      "fonte": "",
+      "t1": "Destaque",
+      "t2": "Mercado",
+      "t3": "Inovação",
+      "titulo": "O Laboratório Clínico na Era da Medicina Preditiva",
+      "resumo": "O laboratório clínico está deixando de ser um prestador de serviço pontual para se tornar um centro estratégico de inteligência clínica. Entenda o que essa mudança significa para laboratórios, clínicas, hospitais e operadoras.",
+      "artigo": "Cole aqui o texto completo do artigo da Ana Paula.\n\nCada parágrafo separado por linha em branco vira um bloco no modal.",
+      "fonte": "Jornal de Negócios da Saúde",
       "colors": {
         "tag1": "none",
-        "tag2": "none",
-        "tag3": "none",
+        "tag2": "#35B6B4",
+        "tag3": "#a14fb8",
         "avatar": "none"
       },
       "img": null
     },
     "2": {
-      "t1": "",
-      "t2": "",
-      "t3": "",
-      "titulo": "",
-      "resumo": "",
-      "artigo": "",
-      "fonte": "",
+      "t1": "Tendência",
+      "t2": "Regulatório",
+      "t3": "ANS",
+      "titulo": "ANS e o Novo Ciclo de Qualificação de Operadoras: O que Muda para o Setor",
+      "resumo": "A ANS lançou o novo ciclo de qualificação com critérios mais rígidos para rede assistencial e indicadores de desempenho. O impacto nos contratos de diagnósticos pode abrir janela de reposicionamento comercial.",
+      "artigo": "Cole aqui o texto completo do artigo do Bernardo.\n\nCada parágrafo separado por linha em branco vira um bloco no modal.",
+      "fonte": "Agência Nacional de Saúde Suplementar",
       "colors": {
-        "tag1": "none",
-        "tag2": "none",
-        "tag3": "none",
-        "avatar": "none"
+        "tag1": "#006677",
+        "tag2": "#f5a623",
+        "tag3": "#f04e63",
+        "avatar": "#006677"
       },
       "img": null
     },
     "3": {
-      "t1": "",
-      "t2": "",
-      "t3": "",
-      "titulo": "",
-      "resumo": "",
-      "artigo": "",
-      "fonte": "",
+      "t1": "Análise",
+      "t2": "Competitivo",
+      "t3": "Diagnósticos",
+      "titulo": "Consolidação no Setor de Diagnósticos: Movimentos M&A e o Novo Mapa Competitivo",
+      "resumo": "O setor de diagnósticos segue em consolidação acelerada. Grandes redes expandem via aquisições enquanto laboratórios independentes buscam diferenciação. Qual o reflexo estratégico para o Grupo DB?",
+      "artigo": "Cole aqui o texto completo do artigo da Leticia.\n\nCada parágrafo separado por linha em branco vira um bloco no modal.",
+      "fonte": "Valor Econômico",
       "colors": {
-        "tag1": "none",
-        "tag2": "none",
-        "tag3": "none",
-        "avatar": "none"
+        "tag1": "#35B6B4",
+        "tag2": "#0a1240",
+        "tag3": "#f5a623",
+        "avatar": "#35B6B4"
       },
       "img": null
     }
