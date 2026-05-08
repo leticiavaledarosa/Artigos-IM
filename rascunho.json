@@ -1,7 +1,7 @@
 {
-  "versao": "Versão 01",
+  "versao": "VersÃ£o 01",
   "mes": "Maio 2026",
-  "edicao": "Diagnósticos",
+  "edicao": "DiagnÃ³sticos",
   "artigos": {
     "1": {
       "t1": "",
@@ -9,7 +9,7 @@
       "t3": "",
       "titulo": "",
       "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo da Ana Paula.\n\nCada parágrafo separado por linha em branco vira um bloco no modal.",
+      "artigo": "Cole aqui o texto completo do artigo da Ana Paula.\n\nCada parÃ¡grafo separado por linha em branco vira um bloco no modal.",
       "fonte": "",
       "colors": {
         "tag1": "none",
@@ -20,12 +20,12 @@
       "img": null
     },
     "2": {
-      "t1": "Tendência",
-      "t2": "Regulatório",
+      "t1": "TendÃªncia",
+      "t2": "RegulatÃ³rio",
       "t3": "ANS",
       "titulo": "",
       "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo do Bernardo.\n\nCada parágrafo separado por linha em branco vira um bloco no modal.",
+      "artigo": "Cole aqui o texto completo do artigo do Bernardo.\n\nCada parÃ¡grafo separado por linha em branco vira um bloco no modal.",
       "fonte": "",
       "colors": {
         "tag1": "none",
@@ -39,15 +39,15 @@
       "t1": "",
       "t2": "",
       "t3": "",
-      "titulo": "",
-      "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo da Leticia.\n\nCada parágrafo separado por linha em branco vira um bloco no modal.",
+      "titulo": "Testando 1 2 3 ",
+      "resumo": "Teste de verdade para testar de teste",
+      "artigo": "Cole aqui o texto completo do artigo da Leticia.\n\nCada parÃ¡grafo separado por linha em branco vira um bloco no modal.",
       "fonte": "",
       "colors": {
-        "tag1": "none",
+        "tag1": "#f5a623",
         "tag2": "none",
-        "tag3": "none",
-        "avatar": "none"
+        "tag3": "#006677",
+        "avatar": "#f5a623"
       },
       "img": null
     }
