@@ -1,53 +1,53 @@
 {
-  "versao": "",
-  "mes": "",
-  "edicao": "",
+  "versao": "Versão 01",
+  "mes": "Maio de 2026",
+  "edicao": "Mercado",
   "artigos": {
     "1": {
-      "t1": "Testando",
-      "t2": "teste",
-      "t3": "teste 1",
-      "titulo": "2",
-      "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo da Ana Paula.\n\nCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
-      "fonte": "",
+      "t1": "Regulatório",
+      "t2": "ANS",
+      "t3": "Tendência",
+      "titulo": "ANS Endurece Critérios de Qualificação e Pressiona Operadoras",
+      "resumo": "O novo ciclo de qualificação da ANS traz critérios mais rígidos para rede assistencial e indicadores de desempenho. O impacto nos contratos de diagnósticos abre janela de reposicionamento comercial.",
+      "artigo": "A ANS publicou as novas diretrizes do Programa de Qualificação de Operadoras com peso maior para indicadores de acesso e resolutividade. Operadoras com rede própria de diagnósticos saem na frente.\n\nO prazo para adequação é curto e operadoras que não atingirem as metas mínimas terão restrições para comercialização de novos planos. Isso acelera a busca por parceiros de diagnóstico com cobertura ampla e qualidade certificada.\nO Grupo DB pode usar esse cenário para fortalecer contratos com operadoras menores que precisam complementar sua rede rapidamente para cumprir os novos critérios da agência reguladora.",
+      "fonte": "Agência Nacional de Saúde Suplementar",
       "colors": {
-        "tag1": "#f04e63",
-        "tag2": "#a14fb8",
+        "tag1": "#0a1240",
+        "tag2": "#006677",
         "tag3": "#35B6B4",
-        "avatar": "#f04e63"
+        "avatar": "#0a1240"
       },
       "img": null
     },
     "2": {
-      "t1": "",
-      "t2": "",
-      "t3": "",
-      "titulo": "Testando 1 2 3 ",
-      "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo do Bernardo.\n\nCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
-      "fonte": "",
+      "t1": "Análise",
+      "t2": "Competitivo",
+      "t3": "M&A",
+      "titulo": "Consolidação no Setor de Diagnósticos Acelera com Novos Movimentos M&A",
+      "resumo": "Grandes redes de diagnósticos seguem em expansão via aquisições. Laboratórios independentes buscam diferenciação. Qual o reflexo estratégico para o Grupo DB?",
+      "artigo": "O setor de diagnósticos brasileiro registrou mais de 12 movimentos de fusão e aquisição no primeiro trimestre de 2026, mantendo o ritmo acelerado dos últimos três anos. Fleury, Dasa e Lavoisier lideram a consolidação regional.\n\nLaboratórios independentes com faturamento entre R$ 5M e R$ 20M são os principais alvos. A estratégia das grandes redes é ampliar capilaridade em municípios do interior, justamente onde o Grupo DB tem presença consolidada.\nA resposta do Grupo DB passa por fortalecer diferenciais locais — atendimento humanizado, prazo de entrega e relacionamento com médicos solicitantes — como barreiras competitivas frente às redes nacionais que chegam via aquisição.",
+      "fonte": "Valor Econômico",
       "colors": {
-        "tag1": "#006677",
-        "tag2": "#a14fb8",
-        "tag3": "#006677",
-        "avatar": "#006677"
+        "tag1": "#f04e63",
+        "tag2": "#f5a623",
+        "tag3": "#5968b0",
+        "avatar": "#f04e63"
       },
       "img": null
     },
     "3": {
-      "t1": "",
-      "t2": "",
-      "t3": "",
-      "titulo": "Testando 1 2 3 ",
-      "resumo": "Teste de verdadCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.e para testar de teste",
-      "artigo": "Cole aqui o textoCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal. completo do artigo da Leticia.\n\nCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
-      "fonte": "",
+      "t1": "Saúde Digital",
+      "t2": "Tecnologia",
+      "t3": "Futuro",
+      "titulo": "Telemedicina e Diagnósticos: A Integração que Está Redesenhando o Cuidado em Saúde",
+      "resumo": "A telemedicina deixou de ser tendência e virou realidade operacional. A integração com laboratórios de diagnóstico é o próximo passo — e quem sair na frente vai definir o padrão do setor",
+      "artigo": "A regulamentação definitiva da telemedicina no Brasil abriu caminho para um novo modelo de cuidado integrado. Consultas remotas já representam mais de 30% dos atendimentos em algumas especialidades, e a demanda por resultados de exames em tempo real nunca foi tão alta.\n\nLaboratórios que investiram em plataformas digitais de entrega de resultados e integração com sistemas de prontuário eletrônico estão captando contratos com clínicas e hospitais digitais que antes nem existiam.\nO desafio agora é a interoperabilidade — conectar sistemas de diferentes fornecedores sem perder velocidade ou segurança dos dados. Grupos que resolverem esse gargalo primeiro terão vantagem competitiva difícil de replicar.",
+      "fonte": "MIT Technology Review Brasil",
       "colors": {
-        "tag1": "#f5a623",
-        "tag2": "none",
-        "tag3": "#006677",
-        "avatar": "#f5a623"
+        "tag1": "#5968b0",
+        "tag2": "#f04e63",
+        "tag3": "#a14fb8",
+        "avatar": "#5968b0"
       },
       "img": null
     }
