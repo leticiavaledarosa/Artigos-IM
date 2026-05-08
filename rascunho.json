@@ -9,7 +9,7 @@
       "t3": "teste 1",
       "titulo": "2",
       "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo da Ana Paula.\n\nCada parÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
+      "artigo": "Cole aqui o texto completo do artigo da Ana Paula.\n\nCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
       "fonte": "",
       "colors": {
         "tag1": "#f04e63",
@@ -25,7 +25,7 @@
       "t3": "",
       "titulo": "Testando 1 2 3 ",
       "resumo": "",
-      "artigo": "Cole aqui o texto completo do artigo do Bernardo.\n\nCada parÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
+      "artigo": "Cole aqui o texto completo do artigo do Bernardo.\n\nCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
       "fonte": "",
       "colors": {
         "tag1": "#006677",
@@ -40,8 +40,8 @@
       "t2": "",
       "t3": "",
       "titulo": "Testando 1 2 3 ",
-      "resumo": "Teste de verdade para testar de teste",
-      "artigo": "Cole aqui o texto completo do artigo da Leticia.\n\nCada parÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
+      "resumo": "Teste de verdadCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.e para testar de teste",
+      "artigo": "Cole aqui o textoCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.Cada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal. completo do artigo da Leticia.\n\nCada parÃÂÃÂÃÂÃÂ¡grafo separado por linha em branco vira um bloco no modal.",
       "fonte": "",
       "colors": {
         "tag1": "#f5a623",
